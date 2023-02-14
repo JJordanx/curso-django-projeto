@@ -1,0 +1,1 @@
+clientes = ['Jordan', 'Regis', 'Everton', 'Isabele']
